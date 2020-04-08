@@ -1,2 +1,4 @@
-# Learning-From-Data_Caltech
-Professor Yaser Abu-Mostafa: http://work.caltech.edu/telecourse.html
+# Learning From Data - Caltech
+Professor Yaser Abu-Mostafa
+
+Course website: http://work.caltech.edu/telecourse.html
